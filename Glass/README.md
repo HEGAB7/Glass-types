@@ -1,2 +1,1 @@
-Simple KNN
-go to https://nbviewer.jupyter.org/ and paste the url of the notebook to show all the output plots
+go to https://nbviewer.jupyter.org/github/HEGAB7/Glass_types/blob/master/Glass/Glass_ML.ipynb to show all the ouput pf the plots 
